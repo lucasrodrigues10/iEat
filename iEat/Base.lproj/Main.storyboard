@@ -176,7 +176,7 @@
                                     <color key="titleColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.51372549020000002" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
-                                    <segue destination="2BE-vD-Y7q" kind="show" id="y0E-po-daP"/>
+                                    <segue destination="rWb-bb-AJv" kind="show" id="u3y-ty-fie"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6kj-Qj-39w">
@@ -255,20 +255,92 @@
             </objects>
             <point key="canvasLocation" x="137.68115942028987" y="135.9375"/>
         </scene>
-        <!--View Controller-->
-        <scene sceneID="BSN-yi-cya">
+        <!--Dieta-->
+        <scene sceneID="QCs-nJ-k4P">
             <objects>
-                <viewController id="BJr-HL-9JP" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="vjr-Dd-Mrc">
+                <viewController id="8wC-ZO-pOn" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="RUq-Va-3Na">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.51372549020000002" alpha="0.68493150680000003" colorSpace="calibratedRGB"/>
-                        <viewLayoutGuide key="safeArea" id="HoR-Nc-rXK"/>
+                        <viewLayoutGuide key="safeArea" id="FJ2-XQ-Mbs"/>
                     </view>
+                    <tabBarItem key="tabBarItem" title="Dieta" id="pMa-yH-ipF"/>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="kgs-CS-EXg" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hNt-XI-lmG" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3762" y="461"/>
+            <point key="canvasLocation" x="3687" y="785"/>
+        </scene>
+        <!--Perfil-->
+        <scene sceneID="dvo-qa-E12">
+            <objects>
+                <viewController id="bqH-Lc-9Zi" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="e7J-qN-lMG">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="14/05/2019" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="T3p-wo-f7Y">
+                                <rect key="frame" x="129" y="79" width="157" height="36"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Calorias Totais" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EVt-PH-h96">
+                                <rect key="frame" x="20" y="160" width="152" height="27"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Calorias Restantes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gfC-CG-jed">
+                                <rect key="frame" x="200" y="160" width="194" height="27"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="2500" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vxu-z2-hyF">
+                                <rect key="frame" x="66" y="206" width="61" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="1000" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cFJ-24-38f">
+                                <rect key="frame" x="267" y="206" width="58" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" red="0.0" green="0.97680455450000003" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.51372549020000002" alpha="0.68493150680000003" colorSpace="calibratedRGB"/>
+                        <viewLayoutGuide key="safeArea" id="6Gk-6i-QGk"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Perfil" id="b2Z-K7-bJb"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="p3x-gH-Jp7" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3687" y="137"/>
+        </scene>
+        <!--Tab Bar Controller-->
+        <scene sceneID="0ss-QV-puU">
+            <objects>
+                <tabBarController id="rWb-bb-AJv" sceneMemberID="viewController">
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Z15-n3-Mfg">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="bqH-Lc-9Zi" kind="relationship" relationship="viewControllers" id="ceK-St-qyK"/>
+                        <segue destination="8wC-ZO-pOn" kind="relationship" relationship="viewControllers" id="TLH-Jh-0tq"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="0D1-4f-Wu7" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2770" y="464"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="64g-Il-Vve">
@@ -322,7 +394,7 @@
                                     <color key="titleColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.51372549020000002" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
-                                    <segue destination="2BE-vD-Y7q" kind="show" id="mKc-yT-377"/>
+                                    <segue destination="rWb-bb-AJv" kind="show" id="B2g-At-ebt"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zIc-fR-YyD">
@@ -342,37 +414,13 @@
             </objects>
             <point key="canvasLocation" x="1600" y="461"/>
         </scene>
-        <!--View Controller-->
-        <scene sceneID="eXB-A7-CRa">
-            <objects>
-                <viewController id="2BE-vD-Y7q" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="dwC-ON-Z7w">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="14/05/2019" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="s4G-3I-hHP">
-                                <rect key="frame" x="129" y="79" width="157" height="36"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
-                        <color key="backgroundColor" red="0.027450980390000001" green="0.25882352939999997" blue="0.51372549020000002" alpha="0.68493150680000003" colorSpace="calibratedRGB"/>
-                        <viewLayoutGuide key="safeArea" id="rMx-Vj-xzh"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="DJM-cP-lJT" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="2801" y="460"/>
-        </scene>
     </scenes>
     <resources>
         <image name="icons8-back-50" width="50" height="50"/>
         <image name="pizza_info" width="512" height="512"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="mKc-yT-377"/>
+        <segue reference="u3y-ty-fie"/>
         <segue reference="cf7-60-PT3"/>
         <segue reference="Je2-Lc-8BZ"/>
     </inferredMetricsTieBreakers>
