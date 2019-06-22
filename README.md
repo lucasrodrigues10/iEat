@@ -43,7 +43,7 @@ Marvel Link - https://marvelapp.com/8ifi31b/screen/57354842
 
 - Mostrar a energia (<i>calorias</i>) necessária para manter o peso
 - Mostrar a energia (<i>calorias</i>) consumida
-- Controle da massa corporal (peso)
+- Controle da massa corporal (<i>peso</i>)
 - Mostrar informacoes nutricionais dos alimentos
 
 ## Requisitos
