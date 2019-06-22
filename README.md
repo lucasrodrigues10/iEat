@@ -32,17 +32,17 @@ Digite o seu email e senha para fazer o login futuramente. <br>
 <p>
 Faca o login utilizando o seu e-mail e senha, caso digite alguma informacao incorreta um aviso em vermelho aparecera.  <br>
 No aba <b>perfil</b> ha a informacao de <b>Calorias Totais</b> que voce pode consumir em um dia. <br>
-Alem de quanto de calorias voce ja consumiu e seus respectivos nutrientes (Carboidratos, Proteinas e Gorduras). <br>
+  Alem de quantas calorias voce ja consumiu, <b> Calorias Restantes</b> e seus respectivos nutrientes (Carboidratos, Proteinas e Gorduras). <br>
 E tambem voce pode atualizar o seu peso para saber se a sua dieta esta surtindo efeito, seja para aumento ou diminuicao de massa corporal. <br>
-Na aba <b>Dieta</b> voce pode ver os alimentos e os nutrientes de cada uma deles e adicionar a sua alimentacao diaria.
+Na aba <b>Dieta</b> voce pode ver os alimentos e os nutrientes de cada uma deles e adicionar na sua alimentacao diaria.
 </p>
 
 Marvel Link - https://marvelapp.com/8ifi31b/screen/57354842
 
 ## Funcionalidades
 
-- Mostrar a energia (caloria) necessária para manter o peso
-- Mostrar a energia (caloria) consumida
+- Mostrar a energia (<i>calorias</i>) necessária para manter o peso
+- Mostrar a energia (<i>calorias</i>) consumida
 - Controle da massa corporal (peso)
 - Mostrar informacoes nutricionais dos alimentos
 
