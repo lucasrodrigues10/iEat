@@ -11,6 +11,9 @@
 
 Use o aplicativo para saber quantas calorias voce pode consumir no seu dia. <br>
 E também controle o seu peso e a quantidade de calorias dos seus alimentos.
+
+# Como usar?
+
 <p float="left"> 
   <img src="pagina_inicial.png" width="200" height="400"/>
   <img src="perguntas.png" width="200" height="400"/>
@@ -51,7 +54,11 @@ Marvel Link - https://marvelapp.com/8ifi31b/screen/57354842
 - iOS 8.0+
 - Xcode 7.3
 
-## Meta
+# Licenca
+
+Projeto criado para o curso de desenvolvimento de aplicativos para o sistema operacional iOS no Instituto Maua de Tecnologia lecionado por Murilo Zanini. 
+
+## Autor
 
 Lucas Rodrigues - 14.00556-5
 
