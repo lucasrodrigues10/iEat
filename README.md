@@ -12,8 +12,9 @@
 Use o aplicativo para saber quantas calorias voce pode consumir no seu dia.
 E adicione os alimentos que comeu e saiba o quanto ainda pode comer!
 
+<img src="iEat.png" width="200" height="400"/>
+
 Marvel Link - https://marvelapp.com/8ifi31b/screen/57354842
-![](header.png)
 
 ## Funcionalidades
 
