@@ -17,17 +17,30 @@ E também controle o seu peso e a quantidade de calorias dos seus alimentos.
   <img src="registrar_email.png" width="200" height="400"/>
 </p>
 
+Nessa secao voce pode clicar em <b>Comecar Agora</b> para realizar o registro.
+Responda as perguntas para identificar o seu perfil energetico.
+Digite o seu email e senha para fazer o login futuramente.
+
 <p float="left"> 
   <img src="login.png" width="200" height="400"/>
   <img src="perfil.png" width="200" height="400"/>
   <img src="alimentos.png" width="200" height="400"/>
 </p>
+
+Faca o login utilizando o seu e-mail e senha, caso digite alguma informacao incorreta um aviso em vermelho aparecera.
+No aba <b>perfil</b> ha a informacao de <b>Calorias Totais</b> que voce pode consumir em um dia.
+Alem de quanto de calorias voce ja consumiu e seus respectivos nutrientes (Carboidratos, Proteinas e Gorduras).
+E tambem voce pode atualizar o seu peso para saber se a sua dieta esta surtindo efeito, seja para aumento ou diminuicao de massa corporal.
+Na aba <b>Dieta</b> voce pode ver os alimentos e os nutrientes de cada uma deles e adicionar a sua alimentacao diaria.
+
 Marvel Link - https://marvelapp.com/8ifi31b/screen/57354842
 
 ## Funcionalidades
 
-- Mostrar calorias diarias
-- Escolha de alimentos
+- Mostrar a energia (caloria) necessária para manter o peso
+- Mostrar a energia (caloria) consumida
+- Controle da massa corporal (peso)
+- Mostrar informacoes nutricionais dos alimentos
 
 ## Requisitos
 
