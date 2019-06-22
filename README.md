@@ -30,9 +30,9 @@ Marvel Link - https://marvelapp.com/8ifi31b/screen/57354842
 
 Lucas Rodrigues – [@YourTwitter](https://twitter.com/)
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/lucasrodrigues10](https://github.com/dbader/)
 
-[swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
+[swift-image]:https://img.shields.io/badge/swift-4.0-orange.svg
 [swift-url]: https://swift.org/
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: LICENSE
