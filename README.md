@@ -17,9 +17,11 @@ E também controle o seu peso e a quantidade de calorias dos seus alimentos.
   <img src="registrar_email.png" width="200" height="400"/>
 </p>
 
-Nessa secao voce pode clicar em <b>Comecar Agora</b> para realizar o registro.
-Responda as perguntas para identificar o seu perfil energetico.
-Digite o seu email e senha para fazer o login futuramente.
+<p>
+Nessa secao voce pode clicar em <b>Comecar Agora</b> para realizar o registro. <br>
+Responda as perguntas para identificar o seu perfil energetico. <br>
+Digite o seu email e senha para fazer o login futuramente. <br>
+</p>
 
 <p float="left"> 
   <img src="login.png" width="200" height="400"/>
@@ -27,11 +29,13 @@ Digite o seu email e senha para fazer o login futuramente.
   <img src="alimentos.png" width="200" height="400"/>
 </p>
 
-Faca o login utilizando o seu e-mail e senha, caso digite alguma informacao incorreta um aviso em vermelho aparecera.
-No aba <b>perfil</b> ha a informacao de <b>Calorias Totais</b> que voce pode consumir em um dia.
-Alem de quanto de calorias voce ja consumiu e seus respectivos nutrientes (Carboidratos, Proteinas e Gorduras).
-E tambem voce pode atualizar o seu peso para saber se a sua dieta esta surtindo efeito, seja para aumento ou diminuicao de massa corporal.
+<p>
+Faca o login utilizando o seu e-mail e senha, caso digite alguma informacao incorreta um aviso em vermelho aparecera.  <br>
+No aba <b>perfil</b> ha a informacao de <b>Calorias Totais</b> que voce pode consumir em um dia. <br>
+Alem de quanto de calorias voce ja consumiu e seus respectivos nutrientes (Carboidratos, Proteinas e Gorduras). <br>
+E tambem voce pode atualizar o seu peso para saber se a sua dieta esta surtindo efeito, seja para aumento ou diminuicao de massa corporal. <br>
 Na aba <b>Dieta</b> voce pode ver os alimentos e os nutrientes de cada uma deles e adicionar a sua alimentacao diaria.
+</p>
 
 Marvel Link - https://marvelapp.com/8ifi31b/screen/57354842
 
