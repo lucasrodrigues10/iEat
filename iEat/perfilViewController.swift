@@ -11,12 +11,19 @@ import UIKit
 class perfilViewController: UIViewController {
 
     @IBOutlet weak var pesoField: UITextField!
+    @IBOutlet weak var lblDate: UILabel!
     
     @IBOutlet weak var lblPeso: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
+        let dateFormatter = DateFormatter()
+        dateFormatter.dateFormat = "dd/MM/yyyy"
+        let dateString = dateFormatter.string(from:Date())
+        lblDate.text = dateString
+ 
     }
     
     @IBAction func atualizarPeso(_ sender: Any) {
