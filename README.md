@@ -11,9 +11,17 @@
 
 Use o aplicativo para saber quantas calorias voce pode consumir no seu dia. <br>
 E também controle o seu peso e a quantidade de calorias dos seus alimentos.
+<p float="left"> 
+  <img src="pagina_inicial.png" width="200" height="400"/>
+  <img src="perguntas.png" width="200" height="400"/>
+  <img src="registrar_email.png" width="200" height="400"/>
+</p>
 
-<img src="iEat.png" width="200" height="400"/>
-
+<p float="left"> 
+  <img src="login.png" width="200" height="400"/>
+  <img src="perfil.png" width="200" height="400"/>
+  <img src="alimentos.png" width="200" height="400"/>
+</p>
 Marvel Link - https://marvelapp.com/8ifi31b/screen/57354842
 
 ## Funcionalidades
