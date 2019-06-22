@@ -28,7 +28,7 @@ Marvel Link - https://marvelapp.com/8ifi31b/screen/57354842
 
 ## Meta
 
-Lucas Rodrigues – [@YourTwitter](https://twitter.com/)
+Lucas Rodrigues
 
 [https://github.com/lucasrodrigues10](https://github.com/dbader/)
 
