@@ -54,7 +54,7 @@ Marvel Link - https://marvelapp.com/8ifi31b/screen/57354842
 - iOS 8.0+
 - Xcode 7.3
 
-# Licenca
+## Licenca
 
 Projeto criado para o curso de desenvolvimento de aplicativos para o sistema operacional iOS no Instituto Maua de Tecnologia lecionado por Murilo Zanini. 
 
@@ -72,3 +72,10 @@ Lucas Rodrigues - 14.00556-5
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [codebeat-image]: https://codebeat.co/badges/c19b47ea-2f9d-45df-8458-b2d952fe9dad
 [codebeat-url]: https://codebeat.co/projects/github-com-vsouza-awesomeios-com
+
+
+## Inspiracao
+
+<p align="center">
+  <img width="460" height="300" src="https://cdn-images-1.medium.com/max/800/1*pAiFtxYHdjg4-HP6e46wZA.gif">
+</p>
