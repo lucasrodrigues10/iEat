@@ -9,8 +9,8 @@
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Use o aplicativo para saber quantas calorias voce pode consumir no seu dia.
-E adicione os alimentos que comeu e saiba o quanto ainda pode comer!
+Use o aplicativo para saber quantas calorias voce pode consumir no seu dia. <br>
+E também controle o seu peso e a quantidade de calorias dos seus alimentos.
 
 <img src="iEat.png" width="200" height="400"/>
 
