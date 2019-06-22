@@ -13,6 +13,7 @@
 		03054D3122B7072200043F94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03054D3022B7072200043F94 /* Assets.xcassets */; };
 		03054D3422B7072200043F94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03054D3222B7072200043F94 /* LaunchScreen.storyboard */; };
 		037BDE8222BDC122007829C8 /* loginPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 037BDE8122BDC122007829C8 /* loginPageViewController.swift */; };
+		03EF3FB822BDFB0C00F7FE6C /* perfilViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EF3FB722BDFB0C00F7FE6C /* perfilViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		03054D3322B7072200043F94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03054D3522B7072200043F94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		037BDE8122BDC122007829C8 /* loginPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginPageViewController.swift; sourceTree = "<group>"; };
+		03EF3FB722BDFB0C00F7FE6C /* perfilViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = perfilViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				03054D2922B7072100043F94 /* AppDelegate.swift */,
 				03054D2B22B7072100043F94 /* ViewController.swift */,
 				037BDE8122BDC122007829C8 /* loginPageViewController.swift */,
+				03EF3FB722BDFB0C00F7FE6C /* perfilViewController.swift */,
 				03054D2D22B7072100043F94 /* Main.storyboard */,
 				03054D3022B7072200043F94 /* Assets.xcassets */,
 				03054D3222B7072200043F94 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				037BDE8222BDC122007829C8 /* loginPageViewController.swift in Sources */,
 				03054D2C22B7072100043F94 /* ViewController.swift in Sources */,
+				03EF3FB822BDFB0C00F7FE6C /* perfilViewController.swift in Sources */,
 				03054D2A22B7072100043F94 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
